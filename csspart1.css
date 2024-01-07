@@ -138,7 +138,7 @@ nav {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 1.2rem;
   background-color: var(--ra-secondary-color);
   transition: 0.5s;
   z-index: -1;
@@ -153,7 +153,7 @@ nav {
 .ra-link a {
   color: var(--ra-text-dark);
   transition: 0.3s;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 
